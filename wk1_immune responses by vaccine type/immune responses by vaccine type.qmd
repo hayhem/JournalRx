@@ -1,0 +1,257 @@
+---
+title: "Week 1"
+author: "Hayley Hemme"
+format: html
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Review literature assessing impact of vaccine formulation on immune
+responses to influenza vaccines
+
+### Richards *et al* (2020). [Recombinant HA-based vaccine outperforms split and subunit vaccines in elicitation of influenza-specific CD4 T cells and CD4 T cell-dependent antibody responses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7450042/)
+
+Vaccines: Flublok (recombinant), Flucelvax (cell-based), and Fluzone
+(egg-based); added FluzoneHD (high-dose, egg-based) in Year 3.
+
+#### CD4+ T Cell
+
+-   ELISpot - difference in HA-specific IFNg-secreting CD4+ T cells
+    (D14 - D0)
+
+    -   Flublok elicited a more robust CD4+ T responses (observed in the
+        initial global assessment of aggregated HA peptide pool, and in
+        the assessment of HA-specific proteins)
+
+    -   Observed a high degree of heterogeneity in CD4+ T expansion to
+        specific HAs across participants - some had a balanced response,
+        while others had a dominant response to a particular HA protein
+
+    -   Dichotamized CD4+ expansion, where a "positive response" was
+        defined as increase of 100 IFNg-secreting cells , 78% of
+        participants who received Flublok had a positive response
+        compared to 53% and 59% among those who had Flucelvax and
+        Fluzone
+
+    -   Higher HA content did not explain differences in immunogenicity:
+
+        -   Compared trivalent Flublok from year 1 and year 2 to
+            trivalent FluzoneHD (year 3); observed greater expansion in
+            Flublok
+
+-   ICS - difference in HA-specific CD4+ T cells-secreting IFNg and/or
+    IL-2 (D7 - D0)
+
+-   Flublok elicited polyfunctional CD4+ T cells to H1 and H3
+    (IFNg+IL-2+), as well as more IFNg+IL-2- secreting cells. No
+    significant differences in IFNg-IL-2+ secreting cell across vaccines
+    was observed.
+
+#### Antibody responses
+
+-   HAI - A higher percent of recipients in Flublok group to
+    seroconverted to H1N1 and B-Victoria compared to Fluzone or
+    Flucelvax. H3N2 was more comparable across vaccine types, though
+    Flublok outperformed Flucelvax.
+
+-   ELISA IgG - Heterogeneity in the magnitude of IgG (D14/D0) among
+    participants. Flublok outperformed Fluzone and Flucelvax
+
+### Cowling *et al* (2020). [Comparative Immunogenicity of Several Enhanced Influenza Vaccine Options for Older Adults](https://pubmed.ncbi.nlm.nih.gov/31828291/)
+
+The objective of this study was to compare cellular and antibody
+responses by vaccine subtypes by by the standard-dose seasonal
+inactivated influenza vaccines (S-IIV) vs enhanced IIVs (eIIV). A subset
+of 800 participants were selected or randomly sampled from a large
+cohort of older adults ages 65-82 who had been randomized to received
+one of four influenza vaccines for the Northern hemisphere 2017-2018
+influenza seasons. Assays included HAI, MN, ICS of IFN-g+ CD4+ and CD8+
+T cells. Statistical significance was designated at P value \< 0.05.
+Comparisons were made using the standard-dose group as the reference.
+
+```         
+- Standard "S-IIV", egg-based (Fluquadri), `n = 200`
+- High-dose "H-eIIV", egg-based (FluzoneHD), `n = 200`
+- MF59-adjuvanted "A-eIIV", egg-based (Fluad), `n = 200`
+- Recombinant-HA "R-eIIV", insect cell culture-based (Flublok), `n = 200`
+```
+
+#### Findings
+
+eIIVs had improved immunogenicity (higher post-vaccination GMTs, and
+greater MFRs) for H1N1 and H3N2 compared to the s-IIV
+
+#### Ideas for UoR data
+
+Quote for the article: "The rate of contraction of T-cell responses from
+acute Day 7 to memory Day 30 was determined by the fold change from Day
+30, divided by Day 7"
+
+It might be interesting to look into D14D3 changes in fold changes
+Luminex D14/D3.
+
+### Li *et al* (2021). [Immunogenicity of standard, high-dose, MF59-adjuvanted, and recombinant-HA seasonal influenza vaccination in older adults](https://pubmed.ncbi.nlm.nih.gov/33594050/)
+
+The study was conducted using a subset of `n = 124` randomly selected
+participants from the cohort described above in Cowling *et al* (2020).
+The objective of the study was to compare H3N2-specific cellular and
+antibody responses induced by the standard-dose seasonal inactivated
+influenza vaccines (S-IIV) vs enhanced IIVs (eIIV). The impact of
+regular vaccination over the past 5 years was also assessed. Assays used
+included HAI; ELISA IgG titers; Tfh and plamablast staining; and ICS for
+IFNg, IL-2, and/or TNF-a-secreting CD4+ and CD8+ T cells. The quality of
+IgG antibody responses was assessed by H3-2013 HA-IgG avidity
+(proportion of high-avidity relative to total); IgG isotype
+distribution; Ratio of the fold change D30D0 in HA IgG1:IgG3 isotypes,
+and; by measuring ADCC activities to HA-bound and G2-bound antibodies at
+day 7. G2 is the functionally conserved stalk region for Group 2.
+Statistical methods included: chi-squared test for differences in
+baseline characteristics; Mann-Whitney *t* test (unpaired) and Wilcoxon
+signed-ranked test (paired) for two- group comparisons; Friedman's test
+(paired, within-group) and Kruskal--Wallis test (unpaired,
+between-group) for multiple-group comparisons followed by
+Dunn-Bonferroni post-hoc test; and Spearman's test for correlations.
+
+#### Results
+
+#### Vaccine-specific findings
+
+-   Magnitude of H3N2 ELISA IgG titer change did not differ across
+    vaccine types
+
+-   eIIV induced higher quality IgG antibody responses for some quality
+    measures:
+
+    -   Fluad (A-eIIV): Had higher H3 HA IgG avidity and G2-stalk titers
+        with ADCC functions. Also observed an association of D7 IgG
+        avidity and ICOS+PD1+Tfh
+
+    -   FluzoneHD (H-eIIV): generated higher levels of H3-HA-specific
+        IgG
+
+-   eIIVs had a higher capacity for stimulating both single- and
+    multiple-cytokine-secreting CD8+ T cell than Fluzone (A-eIIV)
+
+-   FluzoneHD and Flublok (R-eIIV) both recruited higher quality
+    polyfunctional influenza-specific CD8+ T-cells
+
+    #### Other findings
+
+-   Increased ADCC antibody activity was observed among H3N2 HAI
+    sero-responders and non-respondersm but sero-responders had greater
+    fold change in ADCC antibody activity.
+
+-   Observed a negative association with regular vaccination
+    post-vaccination immune responses
+
+    -   Decreased ICOS+PD-1+TFH1 fold change
+    -   Decreased H3 HA IgG titer fold change and avidity fold change
+    -   Decreased titers of H3 HA-bound IgG ADCC functions
+
+#### Ideas for UoR
+
+Assess some quality measures for ELISA HA IgGs?
+
+-   UoR only has D0 for isotypes in 2015 and 2016, but the ratio of
+    flu-specific IgG1 vs IgG3 at baseline might be interesting,
+    particularly for repeat-vaccine recipients
+
+    -   As isotypes have an impact on ADCC functions
+
+        -   Assess association with magnitude of early post-vaccine
+            response
+
+            -   Plasmablasts D7 levels and/ or D7D0 fold-change
+                (<https://www.nature.com/articles/ni.3533>)
+
+            -   ICOS+PD+1 Tfh D7 levels and/ or D7D0 fold-change
+
+### Martin *et al* (2023). [Differential Induction of Interferon-Stimulated Genes by Cell-Based Versus Egg-Based Quadrivalent Influenza Vaccines in Children During the 2018-2019 Season](https://academic.oup.com/jid/advance-article-abstract/doi/10.1093/infdis/jiad380/7259848?redirectedFrom=fulltext)
+
+The primary objective of the study was to identify induction signatures
+associated with seroconversion and/ or type of influenza vaccine
+received in participants ages 4-20 years.
+
+A total of 81 participants ages 4-20 years old were recruited in the
+study for the 2018--2019 influenza vaccine and randomly assigned to
+receive Fluzone (`n = 41`) and Flucelvax (`n = 40`). Participants were
+defined as seroconverted (FC ≥ 4, with HAI pretiter ≥ 1:110), or
+seroprotected (HAI/MN posttiter ≥ 1:110) to a strain based on HAI titer
+(H1N1, B/Yam, B/Vic) or MN titer (H3N2).
+
+Differentially expressed genes (DEGs) between groups by condition and
+time points were identified using DESeq2. Gene set enrichment analysis
+(GSEA)) was used on these DEGs to identify statistically significant
+pathways. Ingenuity Pathway Analysis was used to identify significantly
+enriched canonical pathways.
+
+#### Findings
+
+The authors found no significant difference in seroconversion to
+A(H1N1), A(H3N2), or B/Victoria between vaccine types, but Fluzone
+recipients had greater rates of seroconversion to B/Yamagata than
+Flucelvax recipients. Seroprotection did not differ between vaccine
+types.
+
+Flucelvax recipients had increased interferon signaling at D7.
+
+Flucelvax recipients had higher level of immune response gene
+expression, higher levels of proinflammatory nodes including interferon
+signaling, myeloid cell activation, recruitment of monocytes,
+hypercytokinemia, and innate immune response than among Fluzone
+recipients (D7-D0)
+
+Higher levels of interferon stimulated gene expression among
+seroconverters (ifi6, ifit1, ifit3, ifitm3, and isg15) compared with
+participants who did not seroconvert to any influenza vaccine strain.
+Pathway analysis
+
+#### Ideas
+
+Would we be able to apply this technique or a similar one to the Luminex
+data for cytokine phenotypes?
+<https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8>
+
+<https://www.sciencedirect.com/science/article/pii/S1046202318301774?via%3Dihub>
+
+### Naleway *et al* (2023). [Immunogenicity of High-Dose Egg-Based, Recombinant, and Cell Culture-Based Influenza Vaccines Compared With Standard-Dose Egg-Based Influenza Vaccine Among Health Care Personnel Aged 18-65 Years in 2019-2020: A Randomized, Open-Label Trial](https://academic.oup.com/ofid/article/10/6/ofad223/7135691)
+
+This study was conducted in a cohort of health care personnel during the
+2019-2020 season The cohort, `n = 390`, consisted of persons age 18-65
+and included participants were re-enrolled and as well as newly enrolled
+participants. Participants randomized 1:1:1 to received SD-IIV4 (Fluzone
+Quadrivalent), ccIIV4 (Flucelvax Quadrivalent), or RIV4 (Flublok
+Quadrivalent). Additionally, participants from one site were recruited
+in an observation study and received HD-IIV3 (FluzoneHD). All
+participants who had been re-enrolled received SD-IIV4 in the previous
+seasons.
+
+The researchers utilized cell-grown reference strains in HAI assays
+rather than egg-grown, which may incur antigenic changes.
+
+The researches utilized logistic regression and ANOVA models that
+adjusted for study site and log pretiter used Fluzone as the reference
+group to compare: rates of seroconversion and proportions of
+participants with postvaccination HAI titers greater than 1:40, 1:80,
+and 1:160, and GMT, and fold increase.
+
+#### Findings
+
+-   Suggests that improved antibody response may be driven by the
+    recombinant HA antigen rather than higher HA content
+
+-   Results from ANOVA compare GMT ratio
+
+    -   RIV4 elicited a more robust HA antibody responses to all 4
+        cell-grown vaccine reference viruses compared to Fluzone,
+        FluzoneHD, or Flucelvax.
+
+    -   FluzoneHD and Fluzone elicited similar antibody responses
+        against HA for all vaccine stains based on adjusted GMT ratios
+
+-   Results for logistic regression model
+
+    -   RIV4 had a higher proportion of participants with titers greater
+        than 1:80 for all vaccine strains, and highest \>1:160 against
+        A(H3N2) compared with the SD-IIV4 recipients
