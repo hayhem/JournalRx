@@ -1,0 +1,95 @@
+---
+title: "Impact of Repeat Vaccination"
+format: html
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+#### [Bi *et al* (preprint). Evaluating reduced effectiveness after repeat influenza vaccination while accounting for confounding by recent infection and within-season waning](https://doi.org/10.1101/2023.03.12.23287173%20d)
+
+The study conducted by the US Flu VE Network spanned eight seasons
+(2011-2012 to 2018-2019) across five sites in Wisconsin, Michigan,
+Washington, Pennsylvania, and Texas and explores various factors such as
+timing of vaccination, clinical infection history, and potential
+mediation through subclinical infections using linear ression and
+logistic regression models.
+
+They found that repeat vaccine recipients tended to get vaccinated
+earlier within a season. While the study found that repeat vaccine
+recipients had higher odds of clinical infection with A/H3N2 , adjusting
+for the timing of vaccination did not notably change the findings of
+this effect.
+
+Additionally, they found that previous clinical infections protected
+against clinical infections of type B or A/H3N2. As infection history
+may confound an individual's decision to vaccinate, they adjusted for
+clinical infection history in their models, but this did not
+significantly change the estimates for this effect.
+
+As these factors were insufficient at fully explain the increased risk
+infection among repeat vaccine recipients, the authors conclude that is
+reasonable that infection block hypothesis involving subclinical
+infection in the previous season may explain this observation, thus
+acting as a potential mediator. 
+
+#### [Gaglani *et al* (2023). Effect of Repeat Vaccination on Immunogenicity of Quadrivalent Cell-Culture and Recombinant Influenza Vaccines Among Healthcare Personnel Aged 18--64 Years: A Randomized, Open-Label Trial](https://doi.org/10.1093/cid/ciac683)
+
+While studies suggest that Flucelvax and Flublok may induce broader and
+higher immune responses to circulating influenza, the impact of repeat
+vaccination with non-egg vaccine platforms has not be well-described.
+
+The researchers present findings from a two-year immunogenicity trial
+among healthcare professionals comparing the effectiveness of RIV and
+Flucelvax with standard-dose egg-based influenza vaccine. The study
+found that HCP who received RIV in consecutive seasons had higher
+post-vaccination antibody titers against three out of four vaccine
+components compared to those who received egg-based influenza vaccine.
+This difference was particularly notable for the A(H3N2) vaccine
+component updated in 2019--2020.
+
+#### [Kang *et al* (2023). The impact of pre-existing influenza antibodies and inflammatory status on the influenza vaccine responses in older adults](https://doi.org/10.1111/irv.13172)
+
+The study aimed to understand the factors influencing the variable
+response to the influenza vaccine among older adults, specifically
+focusing on high responders (HR) and low responders (LR). The research
+analyzed serologic profiles and cytokine concentrations in pre- and
+post-vaccination samples from both groups. Correlational study
+
+The study found that high pre-existing antibodies titers were associated
+smaller fold-change in following vaccination, with the largest antibody
+increases associated with the lowest pre-existing titers. Higher
+concentrations of IL-10 were associated with LRs, potentially indicating
+a state of immune suppression. TNF-α concentrations were positively
+correlated with HAI antibody responses in HRs.
+
+Findings suggest that both pre-existing immunity and inflammatory status
+impact influenza vaccine responses in older adults using different
+mechanisms.
+
+#### [Sherman *et al* (2020). The Effects of Imprinting and Repeated Seasonal Influenza Vaccination on Adaptive Immunity after Influenza Vaccination](https://doi.org/10.3390/vaccines8040663)
+
+This study investigates impact of imprinting and repeated seasonal
+influenza vaccination by examining the immune responses of two birth
+cohorts to the 2018--2019 Fluarix quadrivalent seasonal influenza
+vaccine in a small prospective pilot study.
+
+To assess imprinting, the researchers looked for a skewed response to
+the subtypes the circulated around participants birth years. The results
+showed no evidence of imprinting effects on ASC or HAI antibody
+responses at Day 29 or Day 180.
+
+Regarding the impact of repeat vaccination, the investigators found that
+participants with minimal influenza vaccinations in the past five years
+exhibited higher ASC and HAI responses, while those with repeated annual
+vaccination had higher baseline HAI titers, providing evidence of a
+potential antibody ceiling effect.
+
+The researchers acknowledge that the immune measured used in the study
+many not describe the full landscape of immune imprinting, as it was
+limited to serological assay, emphasizing the need for further
+investigation into the immune mechanisms related to imprinting and
+repeated vaccination for the development of more effective influenza
+vaccines.
+
+#### [Adabor (2021). Computational investigations of the immune response to repeated influenza infections and vaccinations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8074957/)
